@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "d56876b3fd63b950",
+    "type": "split",
+    "children": [
+      {
+        "id": "00b83474ca27df86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed148c74ff5a06ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/AP Government/20231130_JudicialBranchReview_lee.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54db8e2c2859c5ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "b27636c73206266f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cfb05da094a26c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df83cb891cdebbce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4856a34ad2e6376",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd1b0bbdaad1a26c",
+    "type": "split",
+    "children": [
+      {
+        "id": "62130972ba6e5bc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e29de6086ce32b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Classes/AP Government/20231130_JudicialBranchReview_lee.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89e1e266585a9d46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Classes/AP Government/20231130_JudicialBranchReview_lee.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c96d7ed266c7f127",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ee9a6d74f44d7650",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Classes/AP Government/20231130_JudicialBranchReview_lee.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "ed148c74ff5a06ee",
+  "lastOpenFiles": [
+    "README.md",
+    "Classes/AP Government/20231130_JudicialBranchReview_lee.md",
+    "Classes/AP Government",
+    "Untitled.md",
+    "Classes"
+  ]
+}
