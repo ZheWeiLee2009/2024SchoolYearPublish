@@ -14,3 +14,5 @@ These are the current school year's homework, extra credits, study guides, and m
 - [Discord](https://discord.com/users/773323104524173384) : @Peterr
 - [Email](mailto:zhewei.lee2009@gmail.com)  : zhewei.lee2009@gmail.com
 - -TBA-
+
+`*to get the latest files, please refer to the TEST branch, not everything on there is correct or correctly formatted*`
