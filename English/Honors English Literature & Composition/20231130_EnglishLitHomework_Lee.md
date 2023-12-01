@@ -1,0 +1,17 @@
+- Body Paragraphs
+	- Topic sentence
+	- Evidence - atleast two peices of evidence required 
+	- Analysis - explains how the evidence supprots the claim
+	- Summarize - provide a summary 
+- Citing
+	- Just add the chapter and page number
+	- (Lowndes, page #). 
+- Others things to know
+	- Title of the book should be italicized
+	- Quotes should not be more than 4 lines 
+	- Titile of poems, short stories, or work published in an anthology should be quoted
+- Works cited/ Bibligoraphy
+	- External page
+	- Use Italics tot identify longer works published under their own title and not contained in other works 
+	- Use quotation marks to identify titiles of hsorter works that are published inside other works 
+		- Songs poems short stories etc
