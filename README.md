@@ -6,6 +6,7 @@ These are the current school year's homework, extra credits, study guides, and m
 *( Each class is all the classes I am in and if anyone else would like to share some files on here, I am very happy to add each your class)*
 ## Naming System
  - The files here are sorted by courses through the folders
+ - The folders are the categories of the subject which it belongs to
  - Each file follows the following convention
 	 - \[DATE]\_\[DESCRIPTION]\_\[VERSION NUMBER]\_\[AUTHOR].\[\FILETYPE]
 
