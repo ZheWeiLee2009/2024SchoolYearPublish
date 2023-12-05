@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "00b83474ca27df86",
+        "id": "bab56548a23b9b4a",
         "type": "tabs",
         "children": [
           {
-            "id": "ed148c74ff5a06ee",
+            "id": "dd08c2002c06b408",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,8 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,9 +97,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -124,17 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,13 +139,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed148c74ff5a06ee",
+  "active": "dd08c2002c06b408",
   "lastOpenFiles": [
+    "README.md",
+    "History/AP U.S. Government and Politics/20231204_BureaucracyReview_Lee.md",
     "History/AP U.S. Government and Politics/20231130_JudicialBranchReview_lee.md",
+    "().md",
     "Science/AP Physics 1/Lab4/Lab4-PreWriting.md",
     "Science/AP Physics 1/Lab4/Lab Checklist.md",
     "Science/AP Physics 1/Lab4/Lab4-Diagram.png",
-    "README.md",
     "Electives/AP Art History/20231128_BookNotes_Lee.md",
     "English/Honors English Literature & Composition/20231130_EnglishLitHomework_Lee.md",
     "Science/AP Physics 1/Lab3/Physics 2D Projectile Motion Lab.pdf",
@@ -169,7 +163,6 @@
     "Language/Mandarin II",
     "Language",
     "Math/AP Precalculus",
-    "Untitled.md",
     "m.md",
     "zhewei.lee2009@gmail.com.md"
   ]
