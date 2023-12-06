@@ -11,8 +11,12 @@
             "id": "dd08c2002c06b408",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "History/AP U.S. Government and Politics/20231204_BureaucracyReview_v2_Lee.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "History/AP U.S. Government and Politics/20231204_BureaucracyReview_v2_Lee.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "History/AP U.S. Government and Politics/20231204_BureaucracyReview_v2_Lee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "History/AP U.S. Government and Politics/20231204_BureaucracyReview_v2_Lee.md"
+              }
             }
           }
         ],
@@ -126,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,8 +149,9 @@
   },
   "active": "dd08c2002c06b408",
   "lastOpenFiles": [
+    "[.md",
+    "History/AP U.S. Government and Politics/20231204_BureaucracyReview_v2_Lee.md",
     "README.md",
-    "History/AP U.S. Government and Politics/20231204_BureaucracyReview_Lee.md",
     "History/AP U.S. Government and Politics/20231130_JudicialBranchReview_lee.md",
     "().md",
     "Science/AP Physics 1/Lab4/Lab4-PreWriting.md",
